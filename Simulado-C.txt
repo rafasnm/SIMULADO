@@ -1,0 +1,36 @@
+====================================================
+RELATÓRIO OFICIAL: DESAFIO FRONT-END (30 QUESTÕES)
+Acertos: 25 de 30 (83%) • Pontuação: 4060 pts
+Data: 16/11/2026, 16:27:43
+----------------------------------------------------
+Q01: [ACERTO] - 1. Múltipla Escolha
+Q02: [ACERTO] - 2. Verdadeiro ou Falso
+Q03: [ACERTO] - 3. Múltiplas Respostas
+Q04: [ACERTO] - 4. Resposta Digitada
+Q05: [ACERTO] - 5. Resposta Numérica
+Q06: [ACERTO] - 6. Ordenação
+Q07: [ACERTO] - 7. Associação de Pares
+Q08: [ACERTO] - 8. Classificação
+Q09: [ACERTO] - 9. Completar Lacunas
+Q10: [ACERTO] - 10. Hotspot
+Q11: [ACERTO] - 11. Caça ao Erro
+Q12: [ERRO] - 12. Seleção de Código
+Q13: [ACERTO] - 13. Previsão de Layout
+Q14: [ACERTO] - 14. Múltipla Escolha
+Q15: [ERRO] - 15. Resposta Numérica
+Q16: [ACERTO] - 16. Verdadeiro ou Falso
+Q17: [ACERTO] - 17. Múltipla Escolha
+Q18: [ERRO] - 18. Resposta Digitada
+Q19: [ACERTO] - 19. Associação
+Q20: [ACERTO] - 20. Múltiplas Respostas
+Q21: [ACERTO] - 21. Verdadeiro ou Falso
+Q22: [ACERTO] - 22. Classificação
+Q23: [ACERTO] - 23. Múltipla Escolha
+Q24: [ACERTO] - 24. Previsão de Layout
+Q25: [ERRO] - 25. Completar Lacunas
+Q26: [ERRO] - 26. Caça ao Erro
+Q27: [ACERTO] - 27. Múltipla Escolha
+Q28: [ACERTO] - 28. Verdadeiro ou Falso
+Q29: [ACERTO] - 29. Resposta Numérica
+Q30: [ACERTO] - 30. Ordenação
+====================================================
